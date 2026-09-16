@@ -21,5 +21,6 @@ Repositories may include code associated with ongoing research, published studie
 ## Links
 
 - [Global Ecology Lab](https://gel.kangwon.ac.kr/)
-- [Kangwon National University](https://ecoenv.kangwon.ac.kr/ecoenv/index.do)
+- [Department of Environmental Science](https://ecoenv.kangwon.ac.kr/ecoenv/index.do)
+- [Kangwon National University](https://www.kangwon.ac.kr/ko/index.do)
 - Chuncheon, Republic of Korea
