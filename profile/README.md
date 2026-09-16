@@ -2,24 +2,21 @@
 
 **Kangwon National University · Chuncheon, Republic of Korea**
 
-The Global Ecology Lab (GEL) investigates how terrestrial ecosystems respond to environmental change using Earth observation, field observations, and geospatial modeling.
+The Global Ecology Lab (GEL) studies environmental and ecosystem dynamics across spatial and temporal scales.
+
+We combine Earth observation, field observations, geospatial analysis, and data-driven modeling to better understand environmental change and ecosystem processes.
 
 ## Research
 
-Our research focuses on:
+Our research spans ecosystem monitoring, environmental change, and the development and application of geospatial methods.
 
-- Land surface phenology and vegetation dynamics
-- Forest biomass and carbon monitoring
-- Wildfire detection and environmental impacts
-- Mangrove and coastal ecosystem mapping
-- High-resolution Earth observation
-- Geospatial AI and reproducible remote-sensing workflows
+We are particularly interested in connecting observations across scales and translating advances in remote sensing and data science into ecological understanding.
 
 ## Research Code
 
 This organization hosts research software, analysis code, and reproducible workflows developed by members of the Global Ecology Lab.
 
-Repositories associated with ongoing research may remain private during development and be made public when appropriate. Published research software and reproducible code are maintained here as long-term research outputs of the lab.
+Repositories may include code associated with ongoing research, published studies, methodological development, and shared research tools.
 
 ## Links
 
